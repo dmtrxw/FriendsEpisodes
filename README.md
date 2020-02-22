@@ -1,2 +1,3 @@
 # FriendsRandomizer
-Friends random episode generator built with React Native
+Episode list, episode recommendations and a random episode generator for Friends
+TV Show. Built with React Native.
